@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 datasets/
 
 *.pth
@@ -6,6 +5,3 @@ datasets/
 
 **/history/
 **/output/
-=======
-datasets/
->>>>>>> 9a4eb5aae5497e4654a1e3a98d162470046b038b
