@@ -3,7 +3,7 @@
 <div align="center"> 2023. 12. 16 : End of Update </div>
 
 ## 🤗 Course Information
-|||
+|Category|Content|
 |:-|:-|
 |__Course Number__|COSE474(03)|
 |__Course Name__|Deep Learning|
