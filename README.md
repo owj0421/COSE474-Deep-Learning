@@ -16,6 +16,3 @@
 |2    |VGG16 and ResNet-50 with Pytorch|
 |3    |Vanila UNet and ResNet-Encoder UNet with Pytorch|
 |4    |ViT(Vision Transformer) with Pytorch|
-
-## 🔔 Note
-
