@@ -2,7 +2,7 @@
 
 <div align="center"> 2023. 12. 16 : End of Update </div>
 
-## 🤗 Course Information
+## Course Information
 |Category|Content|
 |:-|:-|
 |__Course Number__|COSE474(03)|
@@ -10,7 +10,7 @@
 |__Instructor__|Seung yong, Kim|
 |__Semester__|2023 Fall|
 
-## 📚 List
+## List
 |Index|Topic　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
