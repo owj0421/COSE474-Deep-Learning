@@ -11,7 +11,7 @@
 |__Semester__|2023 Fall|
 
 ## Assignment Information
-|Index|Topic　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+|Index|Topic　　　　　　　　　　　　　　　　　　　　　　　|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
 |2    |VGG16 and ResNet-50 with Pytorch|
