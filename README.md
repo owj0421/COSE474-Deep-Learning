@@ -3,12 +3,12 @@
 <div align="center"> 2023. 12. 16 : End of Update </div>
 
 ## 🤗 Course Information
-|Course Number|Course Name|Instructor|
+|Course Number　　　　　　|Course Name　　　　　　|Instructor　　　　　　|
 |:-|:-|:-|
 |COSE474(03)|Deep Learning|Seung yong, Kim|
 
 ## 📚 List
-|Index|Topic|
+|Index|Topic　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
 |2    |VGG16 and ResNet-50 with Pytorch|
