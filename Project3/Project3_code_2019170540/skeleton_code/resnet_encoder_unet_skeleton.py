@@ -116,12 +116,15 @@ class UNetWithResnet50Encoder(nn.Module):
         out1, indices = self.pool(out1)
         out2 = self.layer2(out1)
         out3 = self.layer3(out2)
+
         x = self.bridge(out3) # bridge
         x = self.UpConv1(x)
+
         x = torch.cat([x, out2], dim=1) #######fill in here ####### hint : concatenation
         x = self.UnetConv1(x)
         x = self.upconv2_1(x, output_size=torch.Size([x.size(0),256,64,64]))
         x = self.upconv2_2(x)
+        
         x = torch.cat([x, out1], dim=1) #######fill in here ####### hint : concatenation
         x = self.upsample(x)
         x = self.UnetConv2_1(x)        

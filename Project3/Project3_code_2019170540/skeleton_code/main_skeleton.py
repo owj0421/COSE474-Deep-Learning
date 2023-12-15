@@ -15,8 +15,8 @@ from UNet_skeleton import *
 # setting optimizer and loss, and fill in the blanks.
 
 # batch size
-batch_size = 16
-learning_rate = 0.001
+batch_size = 32
+learning_rate = 3e-5
 
 # VOC2012 data directory
 data_dir = "F:/Projects/cose474-deep-learning/datasets/VOC2012"

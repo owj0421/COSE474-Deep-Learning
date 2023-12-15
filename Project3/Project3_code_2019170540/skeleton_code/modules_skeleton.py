@@ -1,12 +1,16 @@
 import numpy as np
 import torch
+from tqdm import tqdm
 
 ###########################################################################
     # Implement the train/test module.
     # Understand train/test codes, and fill in the blanks.
 def train_model(trainloader, model, criterion, optimizer, scheduler, device):
+    epoch_iterator = tqdm(trainloader) # 모니터링을 위해 tqdm 추가했습니다.
+    
     model.train()
-    for i, (inputs, labels) in enumerate(trainloader):
+    total_loss = 0 # 모니터링을 위해 total_loss추가했습니다.
+    for i, (inputs, labels) in enumerate(epoch_iterator, start=1):
         from datetime import datetime
 
         inputs = inputs.to(device)
@@ -27,6 +31,11 @@ def train_model(trainloader, model, criterion, optimizer, scheduler, device):
         ####### 3. optimizer
         ####### 4. backpropagation
         #########################################
+
+        total_loss += loss.cpu().item() # 모니터링을 위해 total_loss추가했습니다.
+        epoch_iterator.set_description(
+                'Train | loss: {:.5f}'.format(total_loss / i)) # 모니터링을 위해 tqdm 추가했습니다.
+        
 
 def accuracy_check(label, pred):
     ims = [label, pred]
