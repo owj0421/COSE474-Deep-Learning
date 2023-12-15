@@ -2,12 +2,13 @@
 
 <div align="center"> End </div>
 
-## 🤗 Introduction
+## 🤗 Course Information
+|:---:|:---------------------------------------------|
+|Course number|COSE474(03)|
+|Instructor|Seung yong, Kim|
 
-2023년 2학기 딥러닝(COSE474) 과제입니다.<br>
-
-## 📚 Subjects
-|Index|Assignment|
+## 📚 Project List
+|Index|Topic|
 |:---:|:---------------------------------------------|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
 |2    |VGG16 and ResNet-50 with Pytorch|
