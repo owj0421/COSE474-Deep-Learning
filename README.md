@@ -3,11 +3,9 @@
 <div align="center"> 2023. 12. 16 : End of Update </div>
 
 ## 🤗 Course Information
-
-|:-|:-|
-|Course Number|COSE474(03)|
-|Course Name|Deep Learning|
-|Instructor|Seung yong, Kim|
+|Course Number|Course Name|Instructor|
+|:-|:-|:-|
+|COSE474(03)|Deep Learning|Seung yong, Kim|
 
 ## 📚 Project List
 |Index|Topic|
