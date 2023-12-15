@@ -7,7 +7,7 @@
 |:-|:-|:-|
 |COSE474(03)|Deep Learning|Seung yong, Kim|
 
-## 📚 Project List
+## 📚 List
 |Index|Topic|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
