@@ -8,6 +8,7 @@
 |__Course Number__|COSE474(03)|
 |__Course Name__|Deep Learning|
 |__Instructor__|Seung yong, Kim|
+|__Semester__|2023 Fall|
 
 ## 📚 List
 |Index|Topic　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
