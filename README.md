@@ -10,7 +10,7 @@
 |__Instructor__|Seung yong, Kim|
 |__Semester__|2023 Fall|
 
-## Contents
+## Assignment Information
 |Index|Topic　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
