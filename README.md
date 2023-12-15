@@ -1,6 +1,6 @@
 # <div align="center"> COSE474 Deep Learning </div>
 
-<div align="center"> End </div>
+<div align="center"> 2023. 12. 16 : End of Update </div>
 
 ## 🤗 Course Information
 |Division||
