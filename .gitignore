@@ -1,4 +1,6 @@
 datasets/
+reports/
+solutions/
 
 *.pth
 *.pt
