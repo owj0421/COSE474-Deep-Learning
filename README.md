@@ -2,7 +2,7 @@
 
 <div align="center"> 2023. 12. 16 : End of Update </div>
 
-## Course Information
+## 🤗 Course Information
 |Category|Content|
 |:-|:-|
 |__Course Number__|COSE474(03)|
@@ -10,10 +10,10 @@
 |__Instructor__|Seung yong, Kim|
 |__Semester__|2023 Fall|
 
-## Assignment Information
+## 📚 Assignment Information
 |Index|Topic　　　　　　　　　　　　　　　　　　　　　　　|
 |:-:|:-|
 |1    |MLP(Multi Layer Perceptron) with NumPy|
 |2    |VGG16 and ResNet-50 with Pytorch|
-|3    |Vanila UNet and ResNet-Encoder UNet with Pytorch|
+|3    |Vanilla UNet and ResNet-Encoder UNet with Pytorch|
 |4    |ViT(Vision Transformer) with Pytorch|
